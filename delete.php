@@ -16,7 +16,10 @@ header("location:fetch.php");
 
 //git init
 //git add .
-
+//git  commit  -m  "Php Basics files"
+//clear
+//git  config  user.name  "Monalisa"
+//git  config  user.email  "monalisa@yahoo.com"
 
 
 
